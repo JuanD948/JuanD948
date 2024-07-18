@@ -2,22 +2,18 @@
 
 ### Introducción
 
-Ingeniero mecánico interesado en herramientas de desarrollo. Especializada en [Tu Especialidad] y siempre buscando nuevos desafíos técnicos.
+Ingeniero mecánico interesado en herramientas de desarrollo.
 
 ### Habilidades Técnicas
 
-- **Lenguajes de Programación:** C++, Rust, Python
-- **Frameworks y Librerías:** TensorFlow, PyTorch, Dask
-- **Sistemas Operativos:** Linux, Windows, macOS
-- **Herramientas:** Docker, Kubernetes, Terraform
+- **Lenguajes de Programación:** C++, Javascript, MySQL
+- **Frameworks y Librerías:** 
+- **Sistemas Operativos:** Windows, Linux
+- **Herramientas:** Arduino, Excel, ANSYS, Matlab
 
 ### Proyectos Técnicos
 
 1. **[Nombre del Proyecto]**
-   - Descripción técnica detallada.
-   - Tecnologías y herramientas utilizadas: [Tecnologías]
-
-2. **[Nombre del Proyecto]**
    - Descripción técnica detallada.
    - Tecnologías y herramientas utilizadas: [Tecnologías]
 
@@ -27,11 +23,7 @@ Ingeniero mecánico interesado en herramientas de desarrollo. Especializada en [
   - Publicado en: [Nombre de la Publicación]
   - Enlace: [URL]
 
-- **[Título del Artículo]**
-  - Publicado en: [Nombre de la Publicación]
-  - Enlace: [URL]
-
 ### Contacto
 
-- **Email:** [Tu Email]
-- **LinkedIn:** [Tu LinkedIn]
+- **Email:** juandiego948@hotmail.com
+- **LinkedIn:** linkedin.com/in/juan-diego-duarte-887288138

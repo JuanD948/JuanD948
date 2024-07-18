@@ -2,7 +2,7 @@
 
 ### Introducción
 
-Ingeniera de software con experiencia en el desarrollo y la implementación de sistemas complejos. Especializada en [Tu Especialidad] y siempre buscando nuevos desafíos técnicos.
+Ingeniero mecánico interesado en herramientas de desarrollo. Especializada en [Tu Especialidad] y siempre buscando nuevos desafíos técnicos.
 
 ### Habilidades Técnicas
 

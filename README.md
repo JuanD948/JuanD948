@@ -6,7 +6,7 @@ Ingeniero mecánico interesado en herramientas de desarrollo.
 
 ### Habilidades Técnicas
 
-- **Lenguajes de Programación:** C++, Javascript, MySQL
+- **Lenguajes de Programación:** C++, Javascript, MySQL en proceso
 - **Frameworks y Librerías:** 
 - **Sistemas Operativos:** Windows, Linux
 - **Herramientas:** Arduino, Excel, ANSYS, Matlab
